@@ -1,1 +1,1 @@
-# 👋 Hello, It's Jihyeon!
+# 👋 It's Jihyeon!
