@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="여기에_구름사진_주소_붙여넣기" width="100%">
+<img src="[https://github.com/its-jihyeon/its-jihyeon/issues/2#issue-3813222977]" width="100%">
 
 <br/>
 
