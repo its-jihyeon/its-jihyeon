@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-jihyeon&layout=compact&theme=flat&hide_border=false" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=its-jihyeon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
