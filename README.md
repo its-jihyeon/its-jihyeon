@@ -12,4 +12,4 @@
 
 </div>
 
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=its-jihyeon&langs_count=10&layout=compact&theme=dark)](https://github.com/its-jihyeon/its-jihyeon)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=its-jihyeon&layout=compact&theme=dracula)
