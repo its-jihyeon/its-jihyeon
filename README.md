@@ -2,7 +2,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=☁️+Hi,+I'm+Jihyeon!+☁️)](https://github.com/its-jihyeon)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=☁️+Hi,+I'm+Jihyeon!+☁️)
 
 <br/>
 
