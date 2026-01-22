@@ -6,6 +6,6 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=its-jihyeon&layout=compact&theme=radical)](https://github.com/anurag-hazra/github-readme-stats)
-
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=its-jihyeon&layout=compact&title_color=4A90E2&icon_color=4A90E2&text_color=9f9f9f&bg_color=0d1117&hide_border=true)](https://github.com/anurag-hazra/github-readme-stats)
