@@ -9,15 +9,13 @@
 ## Projects
 
 ### EKS 기반 고가용성 티켓팅 서비스 (2026.06~07, 5인 팀)
-Terraform IaC 기반 EKS 클러스터 구축, AccessEntry·Pod Identity 접근 통제 
-
-실시간 좌석 API 개발 
+Terraform IaC 기반 EKS AccessEntry·Pod Identity 접근 통제 체계 구축, 실시간 좌석 API 개발 
 → [Infra](https://github.com/its-jihyeon/ticket-wave-infra) · [App](https://github.com/its-jihyeon/ticket-wave-app)
 
 <br>
 
 ### AWS 비용 최적화 추천 시스템 (2026.05~06, 6인 팀)
-GitHub Actions + ArgoCD GitOps 파이프라인 구축, Prometheus·Grafana 모니터링
+GitHub Actions + ArgoCD GitOps 파이프라인 구축, Prometheus·Grafana 모니터링 
 → [App](https://github.com/its-jihyeon/resourceops-app) · [Config](https://github.com/its-jihyeon/resourceops-config)
 
 <br>
@@ -26,7 +24,7 @@ GitHub Actions + ArgoCD GitOps 파이프라인 구축, Prometheus·Grafana 모�
 U-Net + CBAM 기반 GAN 생성 모델 설계 및 학습 (판별 정확도 83.8%)
 
 2025 대한전기학회 하계학술대회 논문집 게재
-→ [저장소](https://github.com/its-jihyeon/deephide)
+→ [Repository](https://github.com/its-jihyeon/deephide)
 
 <br>
 
