@@ -9,7 +9,7 @@
 ## Projects
 
 ### Ticket Wave (2026.06~07, 5인 팀)
-Terraform IaC 기반 EKS AccessEntry·Pod Identity 접근 통제 체계 구축, 실시간 좌석 API 개발 
+Terraform IaC 기반 EKS AccessEntry·Pod Identity 접근 통제 체계 구축, 좌석 임시 선점 정책 설계 및 실시간 좌석 API 개발 
 → [Infra](https://github.com/its-jihyeon/ticket-wave-infra) · [App](https://github.com/its-jihyeon/ticket-wave-app)
 
 <br>
