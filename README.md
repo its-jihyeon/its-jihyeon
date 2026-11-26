@@ -21,7 +21,7 @@ GitHub Actions + ArgoCD GitOps 파이프라인 구축, Prometheus·Grafana 모�
 <br>
 
 ### DeepHide (2025.03~06, 3인 팀)
-U-Net + CBAM 기반 GAN 생성 모델 설계 및 학습 (판별 정확도 83.8%)
+U-Net + CBAM 기반 GAN 생성 모델 설계 및 학습 (생성 품질 PSNR 31.81dB / SSIM 0.976)
 
 2025 대한전기학회 하계학술대회 논문집 게재
 → [Repository](https://github.com/its-jihyeon/deephide)
