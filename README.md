@@ -15,7 +15,7 @@ Terraform IaC 기반 EKS AccessEntry·Pod Identity 접근 통제 체계 구축, 
 <br>
 
 ### ResourceOps (2026.05~06, 6인 팀)
-GitHub Actions + ArgoCD GitOps 파이프라인 구축, Prometheus·Grafana 모니터링 
+GitHub Actions + ArgoCD GitOps 파이프라인 구축
 → [App](https://github.com/its-jihyeon/resourceops-app) · [Config](https://github.com/its-jihyeon/resourceops-config)
 
 <br>
